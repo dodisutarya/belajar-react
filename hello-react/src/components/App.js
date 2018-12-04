@@ -13,7 +13,7 @@ class App extends Component {
       <div>
         <Header />
           <List />
-        <Footer />
+        <Footer name="makanan nusantara" tahun="2018" />
       </div>
     );
 
